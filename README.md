@@ -115,7 +115,7 @@
 <img alt="Masa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masasibata&show_icons=true&theme=github_dark&langs_count=12"/>                           
 </p>
 
-<h2 align="center">Spotify</h2>
+## Spotify Stats
 
 [![Spotify Data Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=313e7wa34h5yhwfzj2m4fiad6hce&hide_explicit=false&limit=3&show_border=true&show_date=true&time_zone=Europe/Minsk&custom_title=My%20Spotify%20Stats)](https://open.spotify.com/user/313e7wa34h5yhwfzj2m4fiad6hce)
 
