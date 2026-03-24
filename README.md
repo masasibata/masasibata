@@ -115,15 +115,9 @@
 <img alt="Masa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masasibata&show_icons=true&theme=github_dark&langs_count=12"/>                           
 </p>
 
-<h2 align="center">Connect with me</h2>
-<div align="center">
-<a href="https://linkedin.com/in/masasibata" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/masasibata" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-</div>
+## 🎵 Spotify Stats
+
+[![Spotify Data Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=313e7wa34h5yhwfzj2m4fiad6hce&hide_explicit=false&limit=3&show_border=true&show_date=true&time_zone=Europe/Minsk&custom_title=My%20Spotify%20Stats)](https://open.spotify.com/user/313e7wa34h5yhwfzj2m4fiad6hce)
 
 <br/>
 
